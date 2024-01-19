@@ -7,6 +7,6 @@
 
 #[Brighten --amount 30%]
 
-#[Contrast 20%]
+#[Saturation 20%]
 
 #[Visualize]
