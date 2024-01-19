@@ -1,12 +1,12 @@
 
 #[Data Philadelphia.jpg]
 
-#[Rotate 3.3]
+#[Rotate 3]
 
-#[Crop --amount 15%]
+#[Crop 15%]
 
-#[Brighten 10%]
+#[Brighten --amount 30%]
 
-#[Saturation --amount 30%]
+#[Contrast 20%]
 
 #[Visualize]
